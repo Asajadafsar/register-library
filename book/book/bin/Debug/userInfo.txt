@@ -1,0 +1,3 @@
+Username: sajad
+Email: 123456
+ImagePath: C:\Users\sajad\Downloads\سجاد.jpg
